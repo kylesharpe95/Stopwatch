@@ -1,0 +1,29 @@
+body{
+  box-sizing: border-box;
+  font-family: Montserrat;
+  margin: 0;
+  padding: 0;
+}
+
+#container{
+  border: solid 1px black;
+  border-radius: 2px;
+  height: 375px;
+  margin: 100px auto 0 auto;
+  width: 700px;
+}
+
+#container h1{
+  text-align: center;
+}
+
+#container p{
+  text-align: center;
+}
+
+#container button{
+  display: block;
+  height: 50px;
+  margin: 25px auto 25px auto;
+  width: 100px;
+}
